@@ -1,0 +1,39 @@
+body {
+  font-family: "Permanent Marker", cursive;
+  width: 100%;
+  background-image: url("../img/burger.svg");
+  background-position-x: center;
+  background-repeat: no-repeat;
+  background-size: 1200px 1000px;
+  background-color: darkorange;
+}
+
+h1 {
+  margin: auto 0;
+
+  margin-bottom: 3%;
+  margin-top: 2%;
+  text-align: center;
+}
+
+#avail {
+  float: left;
+  margin-right: 6%;
+  margin-left: 10%;
+}
+
+#devoured {
+  float: right;
+  margin-right: 10%;
+}
+
+li {
+  font-size: 20px;
+  list-style-type: none;
+}
+
+#add {
+  clear: both;
+  margin-top: 20%;
+  margin-left: 10%;
+}
